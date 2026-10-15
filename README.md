@@ -1,9 +1,9 @@
-# VP
+# DV
 
-Vizualizacija podataka (Data Visualization)
+Data Visualization
 
-Prirodoslovno-matematički fakultet, Sveučilište u Splitu
+Faculty of Science, University of Split
 
-- `exercises/` vježbe
-- `theory/` teorija
-- `exams/` ispiti
+- `exercises/` exercises
+- `theory/` theory
+- `exams/` exams

@@ -1,18 +1,18 @@
-# Linijski graf
+# Line chart
 
-Pokrenite `index.html` preko Live Server dodatka u VS Codeu (ne preko `file://`).
-Kod upisujte u `graf.js` prema uputama s vježbe (`theory/VP_V01_Linijski_graf.pdf`).
+Open `index.html` with the Live Server extension in VS Code (not via `file://`).
+Write your code in `graf.js` following the exercise instructions (`theory/VP_V01_line_chart.pdf`).
 
-## Zadatak 1
+## Task 1
 
-Nacrtajte linijski graf dnevnih maksimalnih temperatura (°C) iz `vrijeme.json`:
-učitavanje podataka, dimenzije, SVG, skale, linija, osi i nazivi osi.
+Draw a line chart of daily maximum temperatures (°C) from `vrijeme.json`:
+loading the data, dimensions, SVG, scales, line, axes and axis labels.
 
-## Zadatak 2
+## Task 2
 
-Označite područje ispod 0 °C blijedoplavim `rect` elementom iza linije.
+Mark the area below 0 °C with a pale blue `rect` element behind the line.
 
-## Samostalni zadatak
+## Optional task
 
-Istaknite područje iznad 25 °C svijetlocrvenim `rect` elementom iza linije.
-Objasnite što boja znači i što ne znači. Ne mijenjajte izvorne podatke.
+Highlight the area above 25 °C with a light red `rect` element behind the line.
+Explain what the colour means and what it does not mean. Do not modify the source data.
