@@ -1,0 +1,15 @@
+*{box-sizing:border-box}
+body{margin:0;background:#f7fafc;color:#173044;font-family:Inter,"Segoe UI",Arial,sans-serif;font-size:16px}
+main{max-width:1020px;margin:0 auto;padding:24px}
+h1{font-size:clamp(23px,3vw,34px);letter-spacing:-.5px;margin:0 0 7px}
+p{color:#526d80;line-height:1.5;margin:8px 0 15px}
+#okvir{background:white;border:1px solid #d7e7ea;border-radius:15px;min-height:380px;display:flex;justify-content:center;align-items:center;overflow:hidden}
+#okvir svg{width:100%;height:auto;max-width:820px;display:block}
+#okvir svg path.domain,#okvir svg .tick line{stroke:#8298a8}
+#okvir svg text{font-family:Inter,"Segoe UI",Arial,sans-serif;fill:#344b5a}
+.controls{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:16px 0}
+button{appearance:none;border:1px solid #94c5bc;border-radius:10px;background:#e7f7f1;color:#075d53;padding:10px 13px;font-weight:700;cursor:pointer}
+button:hover{background:#d0eee3}button:focus-visible{outline:3px solid #338cbd;outline-offset:2px}
+button[aria-pressed=true]{background:#177c72;color:white}
+.controls span{margin-left:auto;font-size:14px;color:#527080}
+.foot{font-size:14px}
